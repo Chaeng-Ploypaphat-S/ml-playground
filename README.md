@@ -1,2 +1,1 @@
-# ml-playground
-A playground to explore various techniques in Machine Learning
+# A playground to learn about Variational Autoencoders (VAEs)
